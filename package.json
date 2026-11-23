@@ -1,0 +1,12 @@
+{
+  "name": "vector-clock-lab",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A local visualizer for Lamport timestamps and vector clocks across three distributed processes.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
